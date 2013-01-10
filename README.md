@@ -1,6 +1,6 @@
 winfiles
 ========
-My dotfiles variant for Windows
+Dotfiles variant for Windows
 
 // TODO: Include sexy windows prompt
 // TODO: Expose path
@@ -19,16 +19,19 @@ Software
         - Trim trailing and save macro
     - Extensions:
         - File Switcher (ctrl+alt+o) to switch between open files
-        - Explorer (right side) use to browse files in project and jump to current file
-        
+        - Explorer (right side)
+            - Use to browse, rename, open, and delete files in project
+            - Jump to current file
+            - Open command prompt (opens git variant of command prompt which occupies different dock spot)
+            - Find in files (searches folder without needing to specify)
 - MinGW32
     - Use this inside of command shell via path
     - TODO: Come back to this
-    
+
 - PowerCMD
     - Used
     - The only piece of software I am not a huge fan of
-    
+
 - WinSCP
 
 - PuTTY
@@ -36,10 +39,14 @@ Software
 - Pageant
 
 - Explorer
+    - Shift+right click -> Open commad prompt here
 
 - WindowPad
+    - Caps Lock + (Q-E, A-D, Z-C) for snapping windows onto sides, half-sides, tops, half-tops, and corners of screen
 
-- AeroSnap
+- Windows 7
+    - AeroSnap (Windows Key + arrow keys for left/right snapping and min/max of windows)
+    - Stacked dock icons (so great)
 
 - IronKey
 
