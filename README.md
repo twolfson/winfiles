@@ -16,7 +16,8 @@ Software
     - Common features used:
         - Find in opened files
         - Find in files (huge fan of layout/interactivity of bottom panel)
-        - Trim trailing and save macro
+        - Alt+shift+s Trim trailing and save macro
+        - Alt+shift+arrow keys for multi-line editing
     - Extensions:
         - File Switcher (ctrl+alt+o) to switch between open files
         - Explorer (right side)
@@ -65,6 +66,14 @@ Software
 - OpenSSL
 
 - 7-zip
+
+- Command prompt
+    - Not as good as `gnome-terminal` but it works
+    - Quick edit mode for the win
+    
+- xampp
+
+- nginx
 
 Non-Windows specific
 --------------------
