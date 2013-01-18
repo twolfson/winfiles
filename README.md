@@ -3,7 +3,6 @@ winfiles
 Dotfiles variant for Windows
 
 // TODO: Include sexy windows prompt
-// TODO: Expose path
 
 Software
 --------
@@ -74,6 +73,8 @@ Software
 - xampp
 
 - nginx
+
+- EASEUS Partition Master - Home Edition
 
 Non-Windows specific
 --------------------
