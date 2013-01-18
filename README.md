@@ -2,8 +2,6 @@ winfiles
 ========
 Dotfiles variant for Windows
 
-// TODO: Include sexy windows prompt
-
 Software
 --------
 - Notepad++
@@ -24,19 +22,25 @@ Software
             - Jump to current file
             - Open command prompt (opens git variant of command prompt which occupies different dock spot)
             - Find in files (searches folder without needing to specify)
+
 - MinGW32
     - Use this inside of command shell via path
-    - TODO: Come back to this
+    - Allows for usage of UNIX comands from command prompt (e.g. `ls`, `rm`)
 
 - PowerCMD
     - Used
     - The only piece of software I am not a huge fan of
 
 - WinSCP
+    - Synchronized directory browsing
+    - Bookmarks for local/remote directories
+    - Automatic uploads (after first password entry)
 
 - PuTTY
+    - Agent forwarding (woo woo!)
 
 - Pageant
+    - Add SSH keys once and forget about it
 
 - Explorer
     - Shift+right click -> Open commad prompt here
@@ -51,16 +55,25 @@ Software
 - IronKey
 
 - PasswordSafe
+    - Lots of room for information about keys
+    - Bunch of options for configuring key generation
 
 - TortoiseGit
+    - Context menu allows for quick and easy access to Git actions
+    - tortoisemerge is a robust merge tool
+        - Use entire ours/theirs file
+        - Use our/their block
+        - Use theirs then ours block and vice versa
 
 - MSysGit
-
-- Charles
+    - Installs MinGW32 and makes me very happy
 
 - Unlocker
+    - Perform file operations on **any** file even when it is in use
+        - Kills file handles but not processes to make this happen
 
 - TreeSize Free
+    - Quickly determine what folders and files are taking up the most space
 
 - OpenSSL
 
@@ -69,15 +82,27 @@ Software
 - Command prompt
     - Not as good as `gnome-terminal` but it works
     - Quick edit mode for the win
-    
+
 - xampp
 
 - nginx
 
 - EASEUS Partition Master - Home Edition
+    - Easy to use interface for managing partitions and drives
+
+- Sexy Windows prompt (not yet used) https://gist.github.com/4198468
+    - Get more info about your current location in a clutter-free way
 
 Non-Windows specific
 --------------------
+- Charles
+    - Extremely powerful proxying tool
+    - Map local files to URLs
+    - Map URLs to different URLs
+    - Watch and record traffic for sites
+    - Set up breakpoints to force order of requests (and catch race conditions)
+    - Throttle to simulate a slow connection
+
 - finder
     - Not Windows specific but only cross-platform solution for this
 
@@ -85,9 +110,12 @@ Non-Windows specific
     - Not Windows specific but only cross-platform solution for this
 
 - nodemon
+    - Watch folders and files for changes then restart node process on change
+    - Customizable with .nodemonignore
 
 Non-work related
 ----------------
 - ManyCam
 
 - Camtasia
+    - Easy to use recording software for screencasts with great results
