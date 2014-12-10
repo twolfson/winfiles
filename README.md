@@ -93,6 +93,13 @@ Software
 - Sexy Windows prompt (not yet used) https://gist.github.com/4198468
     - Get more info about your current location in a clutter-free way
 
+- Chocolatey
+    - Great package manager for Windows
+    - Install Adobe Reader, Sublime Text, Cmder easily
+
+- Cmder (not yet used)
+    - Terminal replacement for Windows that is much closer to `gnome-terminal`
+
 Non-Windows specific
 --------------------
 - Charles
